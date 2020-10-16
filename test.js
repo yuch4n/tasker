@@ -1,4 +1,2 @@
-window.onload = ()=> {
-  alert('TEST');
-}
+alert('TEST');
 exit();
