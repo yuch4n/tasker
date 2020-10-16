@@ -1,2 +1,2 @@
 alert('TEST');
-exit();
+//exit();
