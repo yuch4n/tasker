@@ -1,2 +1,4 @@
-alert('TEST');
+window.onload = ()=> {
+  alert('TEST');
+}
 //exit();
